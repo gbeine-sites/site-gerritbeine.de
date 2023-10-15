@@ -1,6 +1,6 @@
 +++
 title = 'Vorlesung Softwarequalität im Sommersemester 2022'
-date = '2021-03-20'
+date = '2022-03-22'
 categories = [ 'lecture' ]
 tags = [ 'lecture' ]
 +++
