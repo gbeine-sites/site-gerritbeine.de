@@ -14,10 +14,11 @@ Neuigkeiten zur Vorlesung wird es immer hier auf dieser Seite geben.
 
 ## Wichtig: Prüfungsvorleistung
 
+{{< notice warning >}}
 Am 18.06.2021 und am 02.07.2021 müssen Gruppen jeweils ein Buch durcharbeiten und eine Vorlesung dazu gestalten.
 Die Vorlesung soll das jeweilige Buch in den Bezug zu Softwarequalität setzen.
 Die von euch gestalteten Vorlesungen sind die Prüfungsvorleistung und gehen in die Bewertung der Prüfung ein.
-{: .notice--warning}
+{{< /notice >}}
 
 Die formalen Anforderungen an die Prüfungsvorleistung werden in der ersten Vorlesung bekannt gegeben und dann hier zur Verfügung gestellt.
 Die Links zu den Büchern sind jeweils im Abschnitt zur Vorlesung angegeben. 

@@ -14,11 +14,12 @@ Neuigkeiten zur Vorlesung wird es immer hier auf dieser Seite geben.
 
 ## Wichtig: Prüfungsvorleistung
 
+{{< notice warning >}}
 Am 15.06.2020 und am 29.06.2020 gibt es Projekte für sechs Gruppen.
 Jede der Gruppen muss ein Buch durcharbeiten und eine Vorlesung dazu gestalten.
 Die Vorlesung soll das jeweilige Buch in den Bezug zu Softwarequalität setzen.
 Die von euch gestalteten Vorlesungen sind die Prüfungsvorleistung und gehen in die Bewertung der Prüfung ein.
-{: .notice--warning}
+{{< /notice >}}
 
 Die formalen Anforderungen an die Prüfungsvorleistung werden in der ersten Vorlesung bekannt gegeben und dann hier zur Verfügung gestellt.
 Die Links zu den Büchern sind jeweils im Abschnitt zur Vorlesung angegeben. 

@@ -1,0 +1,290 @@
+
+/* proudly stolen from https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/ */
+
+.notice {
+    margin:2em 0 !important;
+    padding:1em;
+    color:#3d4144;
+    /*font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;*/
+    font-size:.75em !important;
+    text-indent:initial;
+    background-color:#f2f3f3;
+    border-radius:4px;
+    box-shadow:0 1px 1px rgba(189,193,196,0.25)
+}
+/*.notice h4 {*/
+/*    margin-top:0 !important;*/
+/*    margin-bottom:0.75em;*/
+/*    line-height:inherit*/
+/*}*/
+/*.content .notice h4 {*/
+/*    margin-bottom:0;*/
+/*    font-size:1em*/
+/*}*/
+/*.notice p:last-child {*/
+/*    margin-bottom:0 !important*/
+/*}*/
+/*.notice h4+p {*/
+/*    margin-top:0;*/
+/*    padding-top:0*/
+/*}*/
+/*.notice a {*/
+/*    color:#aaaeb0*/
+/*}*/
+/*.notice a:hover {*/
+/*    color:#5f6162*/
+/*}*/
+/*.notice code {*/
+/*    background-color:#f8f9f9*/
+/*}*/
+/*.notice pre code {*/
+/*    background-color:inherit*/
+/*}*/
+/*.notice ul:last-child {*/
+/*    margin-bottom:0*/
+/*}*/
+
+/*
+
+notice--primary
+
+*/
+
+.notice--primary {
+    margin:2em 0 !important;
+    padding:1em;
+    color:#3d4144;
+    /*font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;*/
+    font-size:.75em !important;
+    text-indent:initial;
+    background-color:#e2e4e5;
+    border-radius:4px;
+    box-shadow:0 1px 1px rgba(111,119,125,0.25)
+}
+/*.notice--primary h4 {*/
+/*    margin-top:0 !important;*/
+/*    margin-bottom:0.75em;*/
+/*    line-height:inherit*/
+/*}*/
+/*.content .notice--primary h4 {*/
+/*    margin-bottom:0;*/
+/*    font-size:1em*/
+/*}*/
+/*.notice--primary p:last-child {*/
+/*    margin-bottom:0 !important*/
+/*}*/
+/*.notice--primary h4+p {*/
+/*    margin-top:0;*/
+/*    padding-top:0*/
+/*}*/
+/*.notice--primary a {*/
+/*    color:#646b71*/
+/*}*/
+/*.notice--primary a:hover {*/
+/*    color:#383c3f*/
+/*}*/
+/*.notice--primary code {*/
+/*    background-color:#f1f1f2*/
+/*}*/
+/*.notice--primary pre code {*/
+/*    background-color:inherit*/
+/*}*/
+/*.notice--primary ul:last-child {*/
+/*    margin-bottom:0*/
+/*}*/
+
+/*
+
+notice--info
+
+*/
+
+.notice--info {
+    margin:2em 0 !important;
+    padding:1em;
+    color:#3d4144;
+    /*font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;*/
+    font-size:.75em !important;
+    text-indent:initial;
+    background-color:#d8ebf1;
+    border-radius:4px;
+    box-shadow:0 1px 1px rgba(59,156,186,0.25)
+}
+/*.notice--info h4 {*/
+/*    margin-top:0 !important;*/
+/*    margin-bottom:0.75em;*/
+/*    line-height:inherit*/
+/*}*/
+/*.content .notice--info h4 {*/
+/*    margin-bottom:0;*/
+/*    font-size:1em*/
+/*}*/
+/*.notice--info p:last-child {*/
+/*    margin-bottom:0 !important*/
+/*}*/
+/*.notice--info h4+p {*/
+/*    margin-top:0;*/
+/*    padding-top:0*/
+/*}*/
+/*.notice--info a {*/
+/*    color:#358ca7*/
+/*}*/
+/*.notice--info a:hover {*/
+/*    color:#1e4e5d*/
+/*}*/
+/*.notice--info code {*/
+/*    background-color:#ebf5f8*/
+/*}*/
+/*.notice--info pre code {*/
+/*    background-color:inherit*/
+/*}*/
+/*.notice--info ul:last-child {*/
+/*    margin-bottom:0*/
+/*}*/
+
+/*
+
+notice--warning
+
+*/
+
+.notice--warning {
+    margin:2em 0 !important;
+    padding:1em;
+    color:#3d4144;
+    /*font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;*/
+    font-size:.75em !important;
+    text-indent:initial;
+    background-color:#f7e5cd;
+    border-radius:4px;
+    box-shadow:0 1px 1px rgba(214,127,5,0.25)
+}
+/*.notice--warning h4 {*/
+/*    margin-top:0 !important;*/
+/*    margin-bottom:0.75em;*/
+/*    line-height:inherit*/
+/*}*/
+/*.content .notice--warning h4 {*/
+/*    margin-bottom:0;*/
+/*    font-size:1em*/
+/*}*/
+/*.notice--warning p:last-child {*/
+/*    margin-bottom:0 !important*/
+/*}*/
+/*.notice--warning h4+p {*/
+/*    margin-top:0;*/
+/*    padding-top:0*/
+/*}*/
+/*.notice--warning a {*/
+/*    color:#c17205*/
+/*}*/
+/*.notice--warning a:hover {*/
+/*    color:#6b4003*/
+/*}*/
+/*.notice--warning code {*/
+/*    background-color:#fbf2e6*/
+/*}*/
+/*.notice--warning pre code {*/
+/*    background-color:inherit*/
+/*}*/
+/*.notice--warning ul:last-child {*/
+/*    margin-bottom:0*/
+/*}*/
+
+/*
+
+notice--success
+
+*/
+
+.notice--success {
+    margin:2em 0 !important;
+    padding:1em;
+    color:#3d4144;
+    /*font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;*/
+    font-size:.75em !important;
+    text-indent:initial;
+    background-color:#d9edd9;
+    border-radius:4px;
+    box-shadow:0 1px 1px rgba(63,166,63,0.25)
+}
+/*.notice--success h4 {*/
+/*    margin-top:0 !important;*/
+/*    margin-bottom:0.75em;*/
+/*    line-height:inherit*/
+/*}*/
+/*.content .notice--success h4 {*/
+/*    margin-bottom:0;*/
+/*    font-size:1em*/
+/*}*/
+/*.notice--success p:last-child {*/
+/*    margin-bottom:0 !important*/
+/*}*/
+/*.notice--success h4+p {*/
+/*    margin-top:0;*/
+/*    padding-top:0*/
+/*}*/
+/*.notice--success a {*/
+/*    color:#399539*/
+/*}*/
+/*.notice--success a:hover {*/
+/*    color:#205320*/
+/*}*/
+/*.notice--success code {*/
+/*    background-color:#ecf6ec*/
+/*}*/
+/*.notice--success pre code {*/
+/*    background-color:inherit*/
+/*}*/
+/*.notice--success ul:last-child {*/
+/*    margin-bottom:0*/
+/*}*/
+
+/*
+
+notice--danger
+
+*/
+
+.notice--danger {
+    margin:2em 0 !important;
+    padding:1em;
+    color:#3d4144;
+    /*font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;*/
+    font-size:.75em !important;
+    text-indent:initial;
+    background-color:#fcdfde;
+    border-radius:4px;
+    box-shadow:0 1px 1px rgba(238,95,91,0.25)
+}
+/*.notice--danger h4 {*/
+/*    margin-top:0 !important;*/
+/*    margin-bottom:0.75em;*/
+/*    line-height:inherit*/
+/*}*/
+/*.content .notice--danger h4 {*/
+/*    margin-bottom:0;*/
+/*    font-size:1em*/
+/*}*/
+/*.notice--danger p:last-child {*/
+/*    margin-bottom:0 !important*/
+/*}*/
+/*.notice--danger h4+p {*/
+/*    margin-top:0;*/
+/*    padding-top:0*/
+/*}*/
+/*.notice--danger a {*/
+/*    color:#d65652*/
+/*}*/
+/*.notice--danger a:hover {*/
+/*    color:#77302e*/
+/*}*/
+/*.notice--danger code {*/
+/*    background-color:#fdefef*/
+/*}*/
+/*.notice--danger pre code {*/
+/*    background-color:inherit*/
+/*}*/
+/*.notice--danger ul:last-child {*/
+/*    margin-bottom:0*/
+/*}*/

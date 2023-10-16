@@ -6,6 +6,10 @@ tags = [ 'agile', 'education', 'sociology', 'rant' ]
 toc = true
 +++
 
+{{% notice warning %}}
+**Disclaimer**: Dieser Artikel ist ein Rant, keine wissenschaftliche Abhandlung.
+{{% /notice %}}
+
 Dieser Artikel wird sein langer Zeit wieder ausführlicher sein.
 Meine Motivation dafür ist eine [aktuelle Diskussion auf Twitter](https://twitter.com/GerritBeine/status/1271495596399042560?s=20), die mich an den drei wesentlichen Erkenntnissen vorbeiführt, die ich in den letzten 15 Jahren hatte.
 <!--more-->
@@ -14,15 +18,13 @@ Meine Motivation dafür ist eine [aktuelle Diskussion auf Twitter](https://twitt
 2. Die Ausbildungen im Change Management, in agilen Methoden und in der Arbeit mit Organisationen, die auf dem Markt angeboten werden, sind größtenteils kritisch zu sehen, weil zu wenige davon fundiert sind
 3. Nicht alle relevanten Fähigkeiten zur Gestaltung menschlichen Miteinanders lassen sich durch Trainings erlernen
 
-**Disclaimer**: Dieser Artikel ist ein Rant.
-{: .notice--warning}
-
+{{% notice success %}}
 Die Management Summary dieses Artikel könnte lauten:
+{{% center %}}
+Unfähige resignieren nur deshalb nie,{{< br >}} weil sie die Größe ihrer Aufgabe nicht abzuschätzen vermögen.
+{{% /center %}}
+{{% /notice %}}
 
-Unfähige resignieren nur deshalb nie,{{< br >}}
-weil sie die Größe ihrer Aufgabe nicht abzuschätzen vermögen.
-{: .text-center}
-{: .notice--success}
 
 ## Glückliche Informatiker:innen
 
@@ -115,11 +117,11 @@ Und das ist kritisch.
 
 Und [Polonius'](https://www.projekt-gutenberg.org/shakespr/hamlet-s/chap02.html) Sicht
 
-Weil Kürze denn des Witzes Seele ist,{{< br >}}
-Weitschweifigkeit der Leib und äußre Zierat:{{< br >}}
-Faß ich mich kurz.
-{: .text-center}
-{: .notice--success}
+{{% notice success %}}
+{{% center %}}
+Weil Kürze denn des Witzes Seele ist,{{< br >}}Weitschweifigkeit der Leib und äußre Zierat:{{< br >}}Faß ich mich kurz.
+{{% /center %}}
+{{% /notice %}}
 
 gilt halt auch nur für den Witz.
 Nicht für die Bildung.

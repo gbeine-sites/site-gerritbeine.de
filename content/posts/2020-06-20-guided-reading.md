@@ -10,9 +10,11 @@ Interessierte scheint es ja eine ganze Menge zu geben.
 Daher möchte ich auf dieser Seite kurz beschreiben, wie das funktionieren kann.
 <!--more-->
 
+{{% notice warning %}}
+{{% center %}}
 Zum Meetup [The Guided Reading Guild](https://www.meetup.com/de-DE/The-Guided-Reading-Guild/)
-{: .text-center}
-{: .notice--warning}
+{{% /center %}}
+{{% /notice %}}
 
 ## Guided Reading im Prinzip
 

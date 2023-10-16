@@ -14,10 +14,11 @@ Neuigkeiten zur Vorlesung wird es immer hier auf dieser Seite geben.
 
 ## Wichtig: Prüfungsvorleistung
 
+{{< notice warning >}}
 Am 13.06.2022 und am 27.06.2022 müssen Gruppen jeweils ein Buch durcharbeiten und eine Vorlesung dazu gestalten.
 Die Vorlesung soll das jeweilige Buch in den Bezug zu Softwarequalität setzen.
 Die von den Gruppen gestalteten Vorlesungen gelten als Prüfungsvorleistung.
-{: .notice--warning}
+{{< /notice >}}
 
 Die formalen Anforderungen an die Prüfungsvorleistung werden in der ersten Vorlesung bekannt gegeben und dann hier zur Verfügung gestellt.
 Die Links zu den Büchern sind  jeweils im Abschnitt zur Vorlesung angegeben. 

@@ -5,8 +5,9 @@ categories = [ 'article' ]
 tags = [ 'complexity', 'education', 'sociology', 'constructivism', 'rant' ]
 +++
 
+{{% notice warning %}}
 **Disclaimer**: Dieser Artikel ist ein Rant, keine wissenschaftliche Abhandlung.
-{: .notice--warning}
+{{% /notice %}}
 
 In letzter Zeit lese ich immer häufiger, dass wir alle verantwortlich dafür sind, wie wir die Welt sehen und dass wir, um die Welt zu verändern doch nur unseren Blick auf die Welt ändern müssten und so weiter.
 
