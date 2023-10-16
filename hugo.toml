@@ -45,12 +45,36 @@ weight = 4
 unsafe = true
 
 [params]
-    author = "Gerrit Beine"
-    description = "Gerrit und wie er die Welt sieht"
-    style = "auto"
-    menu_item_separator = " - "
-    customCSS = [ 'css/custom.css' ]
+author = "Gerrit Beine"
+description = "Gerrit und wie er die Welt sieht"
+style = "auto"
+menu_item_separator = " - "
+customCSS = [ 'css/custom.css' ]
+
+[[params.social]]
+id = "mastodon"
+url = "https://mastodon.social/@gerritbeine/"
 
 [[params.social]]
 id = "github"
 url = "https://github.com/gbeine"
+
+[[params.social]]
+id = "calendar"
+url = "https://calendar.gerritbeine.com/"
+
+[[params.social]]
+id = "bookme"
+url = "https://bookme.gerritbeine.com/"
+
+[[params.social]]
+id = "email"
+url = "mail@gerritbeine.de"
+
+[[params.social]]
+id = "linkedin"
+url = "https://linkedin.com/in/gerritbeine"
+
+[[params.social]]
+id = "twitter"
+url = "https://twitter.com/gerritbeine"
