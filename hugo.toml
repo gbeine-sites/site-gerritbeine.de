@@ -4,31 +4,42 @@ title = 'Gerrit Beine'
 theme = "anubis"
 
 [menu]
-    [[menu.main]]
-        identifier = "home"
-        name = "Home"
-        url = "/"
-        weight = 1
-    [[menu.main]]
-        identifier = "projects"
-        name = "Projects"
-        url = "/projects/"
-        weight = 2
-    [[menu.main]]
-        identifier = "published"
-        name = "Published"
-        url = "/published/"
-        weight = 2
-    [[menu.main]]
-        identifier = "talks"
-        name = "Talks"
-        url = "/talks/"
-        weight = 2
-    [[menu.main]]
-        identifier = "imprint"
-        name = "Imprint"
-        url = "/imprint/"
-        weight = 3
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 3
+
+[[menu.main]]
+identifier = "published"
+name = "Published"
+url = "/published/"
+weight = 3
+
+[[menu.main]]
+identifier = "talks"
+name = "Talks"
+url = "/talks/"
+weight = 3
+
+[[menu.main]]
+identifier = "imprint"
+name = "Imprint"
+url = "/imprint/"
+weight = 4
 
 [markup.goldmark.renderer]
 unsafe = true
