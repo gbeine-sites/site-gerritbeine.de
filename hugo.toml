@@ -49,3 +49,4 @@ unsafe = true
     description = "Gerrit und wie er die Welt sieht"
     style = "auto"
     menu_item_separator = " - "
+    customCSS = [ 'css/custom.css' ]
