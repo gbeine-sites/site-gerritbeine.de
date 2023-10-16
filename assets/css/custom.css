@@ -1,4 +1,13 @@
 
+
+/* fonts */
+html {
+    font-family: Merriweather, Georgia, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 400;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
 /* proudly stolen from https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/ */
 
 .notice {
