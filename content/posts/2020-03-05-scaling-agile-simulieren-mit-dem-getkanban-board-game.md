@@ -5,7 +5,7 @@ categories = [ 'training' ]
 tags = [ 'agile', 'kanban' ]
 +++
 
-Seit vielen Jahren benutzen ich das [**getKanban Board Game**][1] wann immer ich Teams an Kanban, Costs of Delay oder andere agile Ideen heranführen möchte.
+Seit vielen Jahren benutzen ich das [**getKanban Board Game**](https://getkanban.com/ "The getKanban Board Game") wann immer ich Teams an Kanban, Costs of Delay oder andere agile Ideen heranführen möchte.
 
 Das **getKanban** ist brilliant: durchdachter Ablauf, klare Regeln und die Szenen im Spielverlauf passen hervorragend zur Arbeitswirklichkeit fast aller Teams, denen ich begegne.
 <!--more-->
@@ -74,6 +74,4 @@ Das Board für die Product Owner bietet ebenfalls eine spannende Lernkurve. Es i
 ## Fazit
 Die oben genannte Regel und die zwei zusätzlichen Boards haben mir in der Arbeit mit Teams schon oft geholfen. Die Erkenntnisse zu den Voraussetzungen und Konsequenzen von skalierter Agilität sind sehr wertvoll, um ein wirkungsvolles Coaching umsetzen zu können.
 
-
-[1]:	https://getkanban.com/ "The getKanban Board Game"
 Die Regeln und die Tipps zur Moderation stelle ich unter {{< cc-by-sa-40 >}}.

@@ -26,7 +26,4 @@ Da haben die Hierarchen alle Hände voll zu tun, werden aber immer als unwirksam
 
 Das Paradox: Die Wirksamkeit der Hierarchie liegt darin, sie nicht bemühen zu müssen.
 
-Inspiriert durch: [Stefan Kühl][1] und [Klaus Leopold][2].
-
-[1]: https://www.goodreads.com/book/show/19286163-organisationen "Organisationen: Eine sehr kurze Einführung by Stefan Kühl"
-[2]: https://www.goodreads.com/book/show/42597568-agilit-t-neu-denken---warum-agile-teams-nichts-mit-business-agilit-t-zu "Agilität neu denken - Warum agile Teams nichts mit Business-Agilität zu tun haben by Klaus Leopold"
+Inspiriert durch: [Stefan Kühl](https://www.goodreads.com/book/show/19286163-organisationen "Organisationen: Eine sehr kurze Einführung by Stefan Kühl") und [Klaus Leopold](https://www.goodreads.com/book/show/42597568-agilit-t-neu-denken---warum-agile-teams-nichts-mit-business-agilit-t-zu "Agilität neu denken - Warum agile Teams nichts mit Business-Agilität zu tun haben by Klaus Leopold").
