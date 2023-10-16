@@ -8,6 +8,7 @@ tags = [ 'agile', 'kanban' ]
 Seit vielen Jahren benutzen ich das [**getKanban Board Game**][1] wann immer ich Teams an Kanban, Costs of Delay oder andere agile Ideen heranführen möchte.
 
 Das **getKanban** ist brilliant: durchdachter Ablauf, klare Regeln und die Szenen im Spielverlauf passen hervorragend zur Arbeitswirklichkeit fast aller Teams, denen ich begegne.
+<!--more-->
 
 Vor einer ganzen Weile habe ich mir einige zusätzliche Regeln ausgedacht, mit denen auch skaliertes Arbeiten simuliert werden kann. Bis zu fünf Teams spielen **getKanban** nicht gegeneinander, sondern arbeiten gemeinsam an einem Produkt. Die Teams gewinnen damit in kurzer Zeit sehr viele wertvolle Erkenntnisse hinsichtlich der Skalierung agiler Methoden.
 

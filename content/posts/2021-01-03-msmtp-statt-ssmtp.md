@@ -9,6 +9,7 @@ Ich hatte auf vielen meiner Raspberry Pis lange Jahre [ssmtp](https://wiki.debia
 Die E-Mails habe ich über ein mailbox.org-Postfach verschickt.
 
 Leider wird ssmtp nicht mehr gepflegt und mailbox.org hat den Versand auch verriegelt, so dass das nicht mehr so einfach geht.
+<!--more-->
 
 Als Alternative bin ich jetzt bei [msmtp](https://wiki.debian.org/msmtp) und [mailgun](https://www.mailgun.com/) angekommen.
 msmtp ein guter Ersatz für ssmtp und kann wie ein lokal installiertes sendmail benutzt werden.

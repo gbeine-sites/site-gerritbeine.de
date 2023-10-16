@@ -8,6 +8,7 @@ tags = [ 'unix', 'macos' ]
 Seit ich 2012 vom Thinkpad W520 auf das MacBook Pro Retina umgestiegen bin, nutze ich homebrew.
 
 Ich konnte auch schon ein paar Packages und Patches beisteuern.
+<!--more-->
 
 Abweichend vom Standard habe ich homebrew seit jeher unter `/opt/homebrew`  installiert.
 Das empfohlene `/usr/local` nutze ich bewusst nicht, aber darüber schreibe ich ein anderes Mal.

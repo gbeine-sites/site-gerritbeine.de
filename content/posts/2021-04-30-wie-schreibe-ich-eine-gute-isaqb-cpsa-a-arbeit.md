@@ -8,6 +8,8 @@ tags = [ 'isaqb', 'software-architecture' ]
 Vor einer Weile hatte ich ja [ein paar Tipps](https://gerritbeine.de/isaqb/iSAQB-CPSA-A/) geschrieben, was bei einer CPSA-A-Arbeit beachtet werden sollte.
 
 Auf [Twitter hatte ich gestern](https://twitter.com/GerritBeine/status/1387718687419994112) mal die Frage gestellt, ob es Interesse an Workshops zu dem Thema gäbe.
+<!--more-->
+
 Die Resonanz war groß genug, um ein weiteres Experiment zu machen:
 
 Ich werde am 04.05. und am 11.05. jeweils von 20-21 Uhr eine Session zu dem Thema machen.

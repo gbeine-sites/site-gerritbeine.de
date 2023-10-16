@@ -7,7 +7,10 @@ tags = [ 'unix', 'linux', 'snmp', 'monitoring' ]
 
 Ich benutze ganz gerne SNMP um Daten über meine Linux-Rechner zu sammeln und sie zu überwachen.
 
-Leider hat net-snmpd unter Debian die Eigenart, `/var/log/syslog` mit Meldungen zuzumüllen, was dann in etwa so ausschaut:
+Leider hat net-snmpd unter Debian die Eigenart, `/var/log/syslog` mit Meldungen zuzumüllen.
+<!--more-->
+
+Das schaut dann in etwa so aus:
 
 ```
 Dec 14 00:00:31 host19 snmpd[17617]: error on subcontainer 'ia_addr' insert (-1)

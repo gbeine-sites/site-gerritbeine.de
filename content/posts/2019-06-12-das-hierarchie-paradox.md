@@ -10,6 +10,7 @@ Es gibt in meinem Umfeld ja viele Verfechter flacher Hierarchien – und sogar d
 Ich sehe das etwas differenzierter und kann Hierarchien viel Nützliches abgewinnen.
 
 Heute hatte ich ein Gespräch, durch das mir die Paradoxie von formalen Hierarchien in Organisationen bewusst geworden ist.
+<!--more-->
 
 Die Hierarchie ist eine Art Notfallsystem.
 Wenn nichts mehr geht, kann die Hierarchie es immer noch lösen.

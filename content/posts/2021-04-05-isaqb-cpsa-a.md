@@ -8,13 +8,13 @@ tags = [ 'isaqb', 'software-architecture' ]
 Ich bin jetzt seit 2016 als Prüfer für den Advanced Level des iSAQB tätig und habe in dieser Zeit sehr viele Arbeiten angesehen.
 
 Die Prüfungen machen mir Spaß und häufig ist das Feedback der Prüflinge auch, dass ihnen die Diskussion und die Kritik an der Erstellung der Aufgabe etwas gebracht hat.
+<!--more-->
 
 Der Ablauf sieht prinzipiell vor, dass sich ein Prüfling für einen Themenbereich entscheidet und dann vom ausgewählten Zertifizierungsinstitut eine Aufgabe zugelost bekommt.
 
 Dann gibt es einen Bearbeitungszeitraum von einigen Wochen und nach der Einreichung haben zwei Prüfer:innen vier Wochen Zeit für eine Bewertung.
 
 Nachdem Gernot Starke und ich bereits im [INNOQ-Blog](https://www.innoq.com/en/blog/isaqb-advanced-exam-antipatterns/) einige häufige Antipattern beschrieben haben, möchte ich hier nochmal ein paar weitere Tipps beschreiben.
-
 ## Fragen ist erlaubt
 
 Ihr dürft den Prüfer:innen Fragen stellen. Macht das auch!

@@ -8,6 +8,7 @@ toc = true
 
 Im Sommersemester 2020 gibt es eine überarbeitete Version der [Vorlesung Softwarequalität](https://modulux.fh-zwickau.de/modulux.php?mod=2664) im Masterstudiengang Informatik an der Westsächsischen Hochschule Zwickau.
 Die Vorlesung findet jeden zweiten Montag von 9-15 Uhr statt.
+<!--more-->
 
 Neuigkeiten zur Vorlesung wird es immer hier auf dieser Seite geben.
 

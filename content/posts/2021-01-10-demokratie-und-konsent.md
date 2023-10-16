@@ -10,6 +10,7 @@ Stefan Kühl teilte neulich einen [Artikel](https://www.sueddeutsche.de/wirtscha
 
 Den Artikel finde ich sehr gut, er differenziert ungewöhnlich stark für eine Tageszeitung.
 Er hat mich aber auch motiviert, ein paar Gedanken niederzuschreiben, weil ich immer wieder erlebe, dass das Thema der Unternehmensdemokratie sehr einseitig bewertet wird.
+<!--more-->
 
 Ich bin prinzipiell für demokratische Strukturen, in Unternehmen ebenso wie in der Gesellschaft.
 Das Funktionieren von demokratischen Strukturen und der zugehörigen Entscheidungsprozesse setzt aber mündige Menschen voraus, die um deren Schwächen und Seiteneffekte wissen.

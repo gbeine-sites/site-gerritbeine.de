@@ -8,6 +8,7 @@ tags = [ 'isaqb', 'software-architecture', 'ddd' ]
 Vor einer kleinen Weile habe ich ein paar [erste Tipps für die CPSA-A-Prüfung](https://gerritbeine.de/isaqb/iSAQB-CPSA-A/) hier auf meinem Blog geteilt, nun ist es Zeit für eine Fortsetzung.
 
 Diesmal möchte ich mich zu Domain Driven Design in der Ausarbeitung zur Prüfung äußern.
+<!--more-->
 
 Ich bin Fan von DDD seit ungefähr 2005. Ich bin sogar Besitzer eines Exemplars der Erstauflage des Blauen Buches. Es hat mir in meiner Diplomarbeit 2006 unglaublich geholfen.
 

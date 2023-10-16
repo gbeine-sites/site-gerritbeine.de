@@ -8,6 +8,8 @@ tags = [ 'smart-home', 'home-automation', 'github', 'mqtt' ]
 In meinem Haus benutze ich den [Home Assistent][1] zur Steuerung von Heizung, Sonnenschutz und anderen technischen Anlagen.
 Der funktioniert ziemlich gut, hat aber natürlich auch ein paar Schwächen.
 Eine davon ist, dass die Verbindung zu meinem KNX-Bus regelmäßig abbricht und nicht wieder aufgebaut wird.
+<!--more-->
+
 Der einzige Weg, dem mit Home Assistent zu begegnen, ist ein Neustart.
 Der dauert nur ziemlich lange, setzt diverse Anlagen zurück und ist nicht planbar, weil der Ausfall der KNX-Verbindung erratisch stattfindet.
 

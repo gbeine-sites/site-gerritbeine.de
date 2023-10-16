@@ -10,6 +10,7 @@ Einige davon dienen mir zur Haussteuerung, andere als Medien-Center und einer we
 
 Vor einer Weile habe ich mich mal hingesetzt und ein kleines Plugin für Nagios und Icinga geschrieben, das die Temperaturen dieser Raspberry Pi überwacht.
 Das Plugin ist auf [GitHub][1] zu finden. 
+<!--more-->
 
 Die Verwendung ist denkbar einfach:
 ```

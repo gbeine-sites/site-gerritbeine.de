@@ -10,6 +10,7 @@ When I had the chance to join the [Certified Team Coach (CTC) Special Interest G
 I promised to offer a list of books that helped me understanding self-organisation and that are quite good sources in my view.
 Most of the books are written from a scientific perspective.
 So, if it's case studies you're looking for, you might not find the right readings here.
+<!--more-->
 
 Here we go with a short bookdump.
 

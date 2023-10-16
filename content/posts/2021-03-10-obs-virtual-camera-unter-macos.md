@@ -8,6 +8,7 @@ tags = [ 'unix', 'macos' ]
 Ich nutze seit einiger Zeit OBS um meine Webcam zu tunen und in Konferenzen oder Trainings ein paar zusätzliche Möglichkeiten zum haben.
 
 Blöderweise wird die OBS Virtual Camera nicht von allen Tools gleichermaßen erkannt.
+<!--more-->
 
 Mit Zoom funktioniert sie recht gut, ebenso mit Conferencing-Tools in Firefox oder Chrome.
 Microsoft Teams, Skype, Discord und Miro erkennen aber die virtuelle Kamera nicht.

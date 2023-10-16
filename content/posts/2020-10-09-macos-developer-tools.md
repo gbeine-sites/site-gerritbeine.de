@@ -9,6 +9,7 @@ Ich darf mich aktuell mal wieder mit Linux umtun.
 So richtig ehrliches Hacken, Coden und mit dem Compiler die CPU-Lüfter zum heulen bringen.
 
 Daher sammele ich jetzt mal ein paar Tipps, wie sich diese Arbeit mit macOS erledigen lässt.
+<!--more-->
 
 ## Verschiedene Versionen der Command Line Tools
 

@@ -8,6 +8,7 @@ tags = [ 'agile', 'education', 'learning', 'reading' ]
 Wie auf Twitter angekündigt, möchte ich einen Guided Reading-Kreis starten.
 Interessierte scheint es ja eine ganze Menge zu geben.
 Daher möchte ich auf dieser Seite kurz beschreiben, wie das funktionieren kann.
+<!--more-->
 
 Zum Meetup [The Guided Reading Guild](https://www.meetup.com/de-DE/The-Guided-Reading-Guild/)
 {: .text-center}

@@ -8,6 +8,7 @@ tags = [ 'agile', 'taylor', 'education', 'reading' ]
 Ich würde gerne auf Lesereise gehen.
 
 Mit Frederick Winslow Taylors Buch "Die Grundsätze wissenschaftlicher Betriebsführung".
+<!--more-->
 
 Das habe ich dieses Jahr mal wieder gelesen, als Reprint der autorisierten deutschen Übersetzung.
 

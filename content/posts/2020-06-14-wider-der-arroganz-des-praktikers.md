@@ -8,6 +8,7 @@ toc = true
 
 Dieser Artikel wird sein langer Zeit wieder ausführlicher sein.
 Meine Motivation dafür ist eine [aktuelle Diskussion auf Twitter](https://twitter.com/GerritBeine/status/1271495596399042560?s=20), die mich an den drei wesentlichen Erkenntnissen vorbeiführt, die ich in den letzten 15 Jahren hatte.
+<!--more-->
 
 1. Informatik ist eine geisteswissenschaftliche Querschnittsdisziplin, die unglücklicherweise von Techniker:innen ausgebildet wird
 2. Die Ausbildungen im Change Management, in agilen Methoden und in der Arbeit mit Organisationen, die auf dem Markt angeboten werden, sind größtenteils kritisch zu sehen, weil zu wenige davon fundiert sind

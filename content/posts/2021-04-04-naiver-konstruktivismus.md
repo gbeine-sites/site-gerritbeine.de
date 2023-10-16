@@ -12,6 +12,7 @@ In letzter Zeit lese ich immer häufiger, dass wir alle verantwortlich dafür si
 
 Frage ich nach, wird das in der Regel mit Konstruktivismus begründet und lässt mich einigermaßen ratlos zurück.
 Um es kurz zu machen: Das ist eine unglaublich naive Interpretation von Konstruktivismus.
+<!--more-->
 
 Konstruktivismus ist die neue Magie, Komplexität das neue Glaubenssystem.
 
