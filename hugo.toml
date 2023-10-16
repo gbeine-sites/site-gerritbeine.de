@@ -50,3 +50,7 @@ unsafe = true
     style = "auto"
     menu_item_separator = " - "
     customCSS = [ 'css/custom.css' ]
+
+[[params.social]]
+id = "github"
+url = "https://github.com/gbeine"
