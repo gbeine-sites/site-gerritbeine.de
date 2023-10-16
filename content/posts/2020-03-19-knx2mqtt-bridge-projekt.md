@@ -1,8 +1,8 @@
 +++
 title = 'KNX2MQTT Bridge-Projekt'
 date = '2020-03-09'
-categories = [ 'smart-home' ]
-tags = [ 'smart-home', 'home-automation', 'github' ]
+categories = [ 'it' ]
+tags = [ 'smart-home', 'home-automation', 'github', 'mqtt' ]
 +++
 
 In meinem Haus benutze ich den [Home Assistent][1] zur Steuerung von Heizung, Sonnenschutz und anderen technischen Anlagen.

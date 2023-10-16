@@ -1,8 +1,8 @@
 +++
 title = 'msmtp statt ssmtp'
 date = '2021-01-03'
-categories = [ 'linux' ]
-tags = [ 'linux', 'home-automation' ]
+categories = [ 'it' ]
+tags = [ 'unix', 'linux', 'mail', 'home-automation' ]
 +++
 
 Ich hatte auf vielen meiner Raspberry Pis lange Jahre [ssmtp](https://wiki.debian.org/sSMTP) laufen, um E-Mails ohne großen Mailserver versenden zu können.

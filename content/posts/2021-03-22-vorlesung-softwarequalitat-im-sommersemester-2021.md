@@ -3,6 +3,7 @@ title = 'Vorlesung Softwarequalität im Sommersemester 2021'
 date = '2021-03-22'
 categories = [ 'lecture' ]
 tags = [ 'lecture' ]
+toc = true
 +++
 
 Im Sommersemester 2021 gibt es wieder der [Vorlesung Softwarequalität](https://modulux.fh-zwickau.de/modulux.php?mod=2664) im Masterstudiengang Informatik an der Westsächsischen Hochschule Zwickau.

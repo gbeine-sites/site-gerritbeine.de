@@ -1,8 +1,8 @@
 +++
 title = 'SNMP Syslog-Meldungen unter Debian'
 date = '2020-12-14'
-categories = [ 'linux' ]
-tags = [ 'linux', 'snmp', 'monitoring' ]
+categories = [ 'it' ]
+tags = [ 'unix', 'linux', 'snmp', 'monitoring' ]
 +++
 
 Ich benutze ganz gerne SNMP um Daten über meine Linux-Rechner zu sammeln und sie zu überwachen.

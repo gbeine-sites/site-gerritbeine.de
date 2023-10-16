@@ -1,8 +1,8 @@
 +++
 title = 'Naiver Konstruktivismus'
 date = '2021-04-04'
-categories = [ 'complexity' ]
-tags = [ 'complexity', 'sociology', 'constructivism' ]
+categories = [ 'article' ]
+tags = [ 'complexity', 'education', 'sociology', 'constructivism', 'rant' ]
 +++
 
 **Disclaimer**: Dieser Artikel ist ein Rant, keine wissenschaftliche Abhandlung.

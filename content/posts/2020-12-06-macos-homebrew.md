@@ -1,8 +1,8 @@
 +++
 title = 'macOS & homebrew'
 date = '2020-12-06'
-categories = [ 'macos' ]
-tags = [ 'macos' ]
+categories = [ 'it' ]
+tags = [ 'unix', 'macos' ]
 +++
 
 Seit ich 2012 vom Thinkpad W520 auf das MacBook Pro Retina umgestiegen bin, nutze ich homebrew.

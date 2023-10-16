@@ -1,8 +1,9 @@
 +++
 title = 'Demokratie und Konsent'
 date = '2021-01-03'
-categories = [ 'agile' ]
+categories = [ 'article' ]
 tags = [ 'agile', 'self-organisation' ]
+toc = true
 +++
 
 Stefan Kühl teilte neulich einen [Artikel](https://www.sueddeutsche.de/wirtschaft/unternehmensdemokratie-new-work-mitbestimmung-haufe-umantis-fuehrung-leadership-organisation-1.5034126) auf LinkedIn, in dem er - wie üblich - kritisch zum Thema Unternehmensdemokratie zitiert wird.

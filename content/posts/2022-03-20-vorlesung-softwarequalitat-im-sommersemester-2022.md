@@ -3,6 +3,7 @@ title = 'Vorlesung Softwarequalität im Sommersemester 2022'
 date = '2022-03-22'
 categories = [ 'lecture' ]
 tags = [ 'lecture' ]
+toc = true
 +++
 
 Im Sommersemester 2022 gibt es wieder der [Vorlesung Softwarequalität](https://modulux.fh-zwickau.de/modulux.php?mod=2664) im Masterstudiengang Informatik an der Westsächsischen Hochschule Zwickau.

@@ -1,8 +1,8 @@
 +++
 title = 'Scaling Agile simulieren mit dem getKanban Board Game'
 date = '2020-03-05'
-categories = [ 'agile' ]
-tags = [ 'agile' ]
+categories = [ 'training' ]
+tags = [ 'agile', 'kanban' ]
 +++
 
 Seit vielen Jahren benutzen ich das [**getKanban Board Game**][1] wann immer ich Teams an Kanban, Costs of Delay oder andere agile Ideen heranführen möchte.

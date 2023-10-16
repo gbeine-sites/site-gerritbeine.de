@@ -1,8 +1,8 @@
 +++
 title = 'RaspberryPi Temperatur-Monitoring'
 date = '2020-03-22'
-categories = [ 'linux' ]
-tags = [ 'linux', 'nagios', 'icinga', 'monitoring', 'github' ]
+categories = [ 'it' ]
+tags = [ 'unix', 'linux', 'monitoring', 'github' ]
 +++
 
 Ich habe sehr viele kleine Raspberry Pi im Einsatz.

@@ -1,8 +1,8 @@
 +++
 title = 'Books on Self Organisation'
 date = '2020-08-16'
-categories = [ 'agile' ]
-tags = [ 'agile', 'self-organisation', 'bookdump', 'reading' ]
+categories = [ 'books' ]
+tags = [ 'agile', 'self-organisation', 'reading' ]
 +++
 
 When I had the chance to join the [Certified Team Coach (CTC) Special Interest Group (SIG)](http://pathtoctc.org) for the first time on August, 15th there was a question about where does this "self-organisation" thing come from.

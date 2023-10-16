@@ -1,8 +1,9 @@
 +++
 title = 'Wider der Arroganz des Praktikers'
 date = '2020-06-14'
-categories = [ 'agile' ]
-tags = [ 'agile', 'education', 'learning', 'psychology', 'rant', 'sociology', 'study' ]
+categories = [ 'article' ]
+tags = [ 'agile', 'education', 'sociology', 'rant' ]
+toc = true
 +++
 
 Dieser Artikel wird sein langer Zeit wieder ausführlicher sein.

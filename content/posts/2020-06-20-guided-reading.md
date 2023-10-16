@@ -1,7 +1,7 @@
 +++
 title = 'Guided Reading'
 date = '2020-06-20'
-categories = [ 'agile' ]
+categories = [ 'books' ]
 tags = [ 'agile', 'education', 'learning', 'reading' ]
 +++
 

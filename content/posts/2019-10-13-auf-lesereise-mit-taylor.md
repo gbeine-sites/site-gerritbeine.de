@@ -1,8 +1,8 @@
 +++
 title = 'Auf Lesereise mit Taylor'
 date = '2019-10-13'
-categories = [ 'agile' ]
-tags = [ 'agile', 'taylor', 'reading' ]
+categories = [ 'books' ]
+tags = [ 'agile', 'taylor', 'education', 'reading' ]
 +++
 
 Ich würde gerne auf Lesereise gehen.

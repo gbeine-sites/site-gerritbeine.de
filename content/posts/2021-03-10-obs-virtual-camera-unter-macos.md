@@ -1,8 +1,8 @@
 +++
 title = 'OBS Virtual Camera unter macOS'
 date = '2021-03-10'
-categories = [ 'macos' ]
-tags = [ 'macos', 'conferencing' ]
+categories = [ 'it' ]
+tags = [ 'unix', 'macos' ]
 +++
 
 Ich nutze seit einiger Zeit OBS um meine Webcam zu tunen und in Konferenzen oder Trainings ein paar zusätzliche Möglichkeiten zum haben.

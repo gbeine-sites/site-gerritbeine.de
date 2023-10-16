@@ -1,7 +1,7 @@
 +++
 title = "Das Hierarchie-Paradox"
 date = '2019-06-12'
-categories = [ 'agile' ]
+categories = [ 'article' ]
 tags = [ 'agile', 'hierarchy' ]
 +++
 

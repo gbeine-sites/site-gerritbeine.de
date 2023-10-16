@@ -1,8 +1,8 @@
 +++
 title = 'macOS Developer Tools'
 date = '2020-10-09'
-categories = [ 'macos' ]
-tags = [ 'macos', 'linux', 'programming' ]
+categories = [ 'it' ]
+tags = [ 'unix', 'macos', 'linux', 'programming' ]
 +++
 
 Ich darf mich aktuell mal wieder mit Linux umtun.
