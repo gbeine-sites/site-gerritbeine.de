@@ -42,7 +42,7 @@ Ich sage es noch einmal: die Natur kennt keine Verantwortung.
 
 ## Von Verantwortung zur Schuld
 
-Das Fatale an der Konstruktion der Verantwortung, die aus diesem  oben genannten naiven Konstruktivismus folgt, ist dass er unweigerlich zum Konstrukt der Schuld führt.
+Das Fatale an der Konstruktion der Verantwortung, die aus diesem oben genannten naiven Konstruktivismus folgt, ist dass er unweigerlich zum Konstrukt der Schuld führt.
 
 Ich *muss* aus Sicht der selbsternannten Konstruktivisten die Verantwortung tragen, auch für Dinge, bei denen die Wissenschaft schon längst erkannt hat: das kann ich gar nicht.
 Diese Sicht folgt direkt der protestantischen Ethik von "jeder ist eines eigenen Glückes Schmied" und wird heute durch viele Angebote im Coachingbereich (und der positiven Psychologie) unterstützt.
