@@ -5,7 +5,7 @@ categories = [ 'isaqb' ]
 tags = [ 'isaqb', 'software-architecture' ]
 +++
 
-Vor einer Weile hatte ich ja [ein paar Tipps](https://gerritbeine.de/isaqb/iSAQB-CPSA-A/) geschrieben, was bei einer CPSA-A-Arbeit beachtet werden sollte.
+Vor einer Weile hatte ich ja [ein paar Tipps]({{< ref "/posts/2021-04-05-isaqb-cpsa-a" >}}) geschrieben, was bei einer CPSA-A-Arbeit beachtet werden sollte.
 
 Auf [Twitter hatte ich gestern](https://twitter.com/GerritBeine/status/1387718687419994112) mal die Frage gestellt, ob es Interesse an Workshops zu dem Thema gäbe.
 <!--more-->

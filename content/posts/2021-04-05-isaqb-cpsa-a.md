@@ -3,6 +3,7 @@ title = 'Tipps zur iSAQB CPSA-A-Prüfung'
 date = '2021-04-05'
 categories = [ 'isaqb' ]
 tags = [ 'isaqb', 'software-architecture' ]
+url = '/isaqb/iSAQB-CPSA-A'
 +++
 
 Ich bin jetzt seit 2016 als Prüfer für den Advanced Level des iSAQB tätig und habe in dieser Zeit sehr viele Arbeiten angesehen.
@@ -21,7 +22,6 @@ Ihr dürft den Prüfer:innen Fragen stellen. Macht das auch!
 Ich höre häufig, dass die Situation unrealistisch ist.
 Das stimmt, das ist bei fast allen Prüfungssituationen der Fall.
 Fragen ist aber erlaubt!
-
 Ich freue mich darüber, wenn ihr mir eure Annahmen als Fragen schickt - das zeigt, dass ihr euch bewusst mit der Aufgabe auseinandersetzt und nicht nur Abschnitte abarbeitet.
 
 Ich darf zwar keine inhaltlichen Hinweise geben, aber zu Annahmen äußere ich mich immer gern.

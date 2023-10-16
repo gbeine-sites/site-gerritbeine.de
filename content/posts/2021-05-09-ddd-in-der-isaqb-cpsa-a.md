@@ -5,7 +5,7 @@ categories = [ 'isaqb' ]
 tags = [ 'isaqb', 'software-architecture', 'ddd' ]
 +++
 
-Vor einer kleinen Weile habe ich ein paar [erste Tipps für die CPSA-A-Prüfung](https://gerritbeine.de/isaqb/iSAQB-CPSA-A/) hier auf meinem Blog geteilt, nun ist es Zeit für eine Fortsetzung.
+Vor einer kleinen Weile habe ich ein paar [erste Tipps für die CPSA-A-Prüfung]({{< ref "/posts/2021-04-05-isaqb-cpsa-a" >}}) hier auf meinem Blog geteilt, nun ist es Zeit für eine Fortsetzung.
 
 Diesmal möchte ich mich zu Domain Driven Design in der Ausarbeitung zur Prüfung äußern.
 <!--more-->
