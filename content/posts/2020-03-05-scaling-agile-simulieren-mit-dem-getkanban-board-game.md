@@ -74,7 +74,6 @@ Das Board für die Product Owner bietet ebenfalls eine spannende Lernkurve. Es i
 ## Fazit
 Die oben genannte Regel und die zwei zusätzlichen Boards haben mir in der Arbeit mit Teams schon oft geholfen. Die Erkenntnisse zu den Voraussetzungen und Konsequenzen von skalierter Agilität sind sehr wertvoll, um ein wirkungsvolles Coaching umsetzen zu können.
 
-Die Regel und die Tipps zur Moderation stelle ich unter [CC-BY-SA][2].
 
 [1]:	https://getkanban.com/ "The getKanban Board Game"
-[2]:	https://creativecommons.org/licenses/by-sa/4.0/deed.de "Creative Commons - Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)"
+Die Regeln und die Tipps zur Moderation stelle ich unter {{< cc-by-sa-40 >}}.

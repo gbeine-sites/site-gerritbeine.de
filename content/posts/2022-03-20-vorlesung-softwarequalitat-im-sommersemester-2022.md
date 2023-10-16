@@ -250,5 +250,5 @@ Hinweis: Qualität bezieht sich in diesem Kontext immer auf Software.
 
 Für alle weiteren Fragen zwischendurch bin ich über die links stehende Kanäle erreichbar.
 
-Die Inhalte und Materialien, die ich für die Vorlesung erstellt habe, sind unter [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.de "Creative Commons - Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)") verfügbar.
+Die Inhalte und Materialien, die ich für die Vorlesung erstellt habe, sind unter {{< cc-by-sa-40 >}} verfügbar.
 Anders formuliert: Ich freue mich, wenn ihr sie benutzt mindestens ebenso sehr, wie über die Quellenangabe.
