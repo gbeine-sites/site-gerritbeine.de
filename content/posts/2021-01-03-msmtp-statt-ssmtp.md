@@ -16,11 +16,13 @@ msmtp ein guter Ersatz für ssmtp und kann wie ein lokal installiertes sendmail 
 
 Die Installation ist denkbar einfach:
 
-```apt install msmtp msmtp-mta```
+{{< highlight shell >}}
+apt install msmtp msmtp-mta
+{{< /highlight >}}
 
 Danach muss die Konfigurationsdatei ```/etc/msmtprc``` erstellt werden:
 
-```
+{{< highlight cfg >}}
 defaults
 
 account default
@@ -37,7 +39,7 @@ maildomain beine-computer.de
 
 # Syslog logging with facility LOG_MAIL instead of the default LOG_USER
 syslog LOG_MAIL
-```
+{{< /highlight >}}
 
 Wie oben geschrieben, nutze ich mailgun für den Versand.
 Dort kann man mehrere Domains registrieren und entsprechende SMTP-Accounts anlegen, um E-Mails zu versenden.

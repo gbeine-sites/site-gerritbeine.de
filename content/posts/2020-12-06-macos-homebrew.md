@@ -25,19 +25,21 @@ Zunächst muss der Pfad `/homebrew` erstellt werden.
 Das geht unter Big Sur nicht einfach mit `mkdir` - auch nicht als root.
 Stattdessen benötigt es einen Eintrag in `/etc/synthetic.conf`, den man wie folgt erstellen kann:
 
-```echo 'homebrew' | sudo tee -a /etc/synthetic.conf```
+{{< highlight shell >}}
+echo 'homebrew' | sudo tee -a /etc/synthetic.conf
+{{< /highlight >}}
 
 Anschließen muss das MacBook neu gestartet werden.
 
 Jetzt kann das Volume erstellt werden.
 Das geht am einfachsten an einem Terminal mit diesen Kommandos:
 
-```
+{{< highlight shell >}}
 sudo diskutil apfs addVolume disk1 APFS homebrew -mountpoint /homebrew
 sudo diskutil enableOwnership /homebrew
 sudo chflags hidden /homebrew
 echo "LABEL=homebrew /homebrew apfs rw" | sudo tee -a /etc/fstab
-```
+{{< /highlight >}}
 
 Damit wir ein neues Volume mit dem Name homebrew erzeugt und in dem gerade erstellten Pfad `/homebrew` gemountet.
 Das `chflags` ist nicht nötigt, wenn das Icon auf dem Desktop nicht stört.
@@ -45,15 +47,17 @@ Das `chflags` ist nicht nötigt, wenn das Icon auf dem Desktop nicht stört.
 Anschließen kann homebrew installiert werden.
 Hier muss `gbeine` natürlich durch den eigenen Benutzernamen ersetzt werden.
 
-```
+{{< highlight shell >}}
 sudo chown gbeine:staff /homebrew
 cd /
 curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew
-```
+{{< /highlight >}}
 
 Zum Schluss noch ein 
 
-```export PATH=/homebrew/bin:$PATH```
+{{< highlight shell >}}
+export PATH=/homebrew/bin:$PATH
+{{< /highlight >}}
 
 an geeigneter Stelle in der `.zshrc` hinzufügen und alles läuft wie geschmiert.
 

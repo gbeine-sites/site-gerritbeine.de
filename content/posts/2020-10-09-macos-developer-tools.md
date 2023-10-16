@@ -14,7 +14,11 @@ Daher sammele ich jetzt mal ein paar Tipps, wie sich diese Arbeit mit macOS erle
 ## Verschiedene Versionen der Command Line Tools
 
 Von Haus aus gibt es auf macOS immer nur eine Version der Command Line Tools.
-Welche das ist, erfährt man via: `xcode-select -p`
+Welche das ist, erfährt man via:
+
+{{< highlight shell >}}
+xcode-select -p
+{{< /highlight >}}
 
 Manchmal ist das aber nicht die, die man benötigt.
 Dann braucht es etwas Magie.
@@ -25,27 +29,34 @@ Das DMG klickt man dann ganz normal an und es erscheint der Pfad `/Volumes/Comma
 
 Als nächstes benötigt man einen lokalen Pfad für die Installation.
 Ich mache das unter `~/Developer/<Version>/CommandLineTools`.
-Also für den Fall der Command Line Tools 11.5 `mkdir -p ~/Developer/11.5/CommandLineTools`.
+Also für den Fall der Command Line Tools 11.5:
+
+{{< highlight shell >}}
+mkdir -p ~/Developer/11.5/CommandLineTools
+{{< /highlight >}}
 
 Als nächstes muss das Package ausgepackt werden.
-Dafür gibt es eine nicht-dokumentierte Option für `pkgutils`: `--expand-full <pkg> <dir>`
-Das Verzeichnis, wohin ausgepackt werden soll, darf es noch nicht geben.
+Dafür gibt es eine nicht-dokumentierte Option für `pkgutils`: `--expand-full <pkg> <dir>`.
+Das Verzeichnis, in das ausgepackt werden soll, darf es noch nicht geben.
 
-Der Befehl dazu lautet dann: `pkgutil --expand-full /Volumes/Command\ Line\ Developer\ Tools/Command\ Line\ Tools.pkg ~/Developer/tmp`
+Der Befehl dazu lautet dann:
+{{< highlight shell >}}
+pkgutil --expand-full /Volumes/Command\ Line\ Developer\ Tools/Command\ Line\ Tools.pkg ~/Developer/tmp
+{{< /highlight >}}
 
 Als nächstes müssen die Dateien aus dem Package in das Installationsverzeichnis kopiert werden:
 
-```
+{{< highlight shell >}}
 cp -a Developer/tmp/CLTools_Executables.pkg/Payload/Library/Developer/CommandLineTools/* Developer/11.5/CommandLineTools
 cp -a Developer/tmp/CLTools_macOS1014_SDK.pkg/Payload/Library/Developer/CommandLineTools/* Developer/11.5/CommandLineTools
 cp -a Developer/tmp/CLTools_macOS1015_SDK.pkg/Payload/Library/Developer/CommandLineTools/* Developer/11.5/CommandLineTools
 cp -a  Developer/tmp/CLTools_macOS_SDK.pkg/Payload/Library/Developer/CommandLineTools/* Developer/11.5/CommandLineTools
 rm -rf Developer/tmp
-```
+{{< /highlight >}}
 
 Wenn das erledigt ist, kann die Auswahl der Command Line Tools angepasst werden:
 
-```
+{{< highlight bash-session >}}
 gbeine@mbpgb ~ % clang --version
 Apple clang version 12.0.0 (clang-1200.0.32.2)
 Target: x86_64-apple-darwin19.6.0
@@ -60,7 +71,7 @@ Target: x86_64-apple-darwin19.6.0
 Thread model: posix
 InstalledDir: /Users/gbeine/Developer/11.5/CommandLineTools/usr/bin
 gbeine@mbpgb ~ %
-```
+{{< /highlight >}}
 
 Geholfen haben mir dabei zwei Threads auf Stackoverflow:
 

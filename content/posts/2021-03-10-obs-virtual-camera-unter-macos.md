@@ -18,39 +18,39 @@ Damit die OBS Virtual Camera benutzt werden kann, müssen bei den  Programmen di
 
 ## Skype
 
-```
+{{< highlight shell >}}
 sudo codesign --remove-signature "/Applications/Skype.app/Contents/Frameworks/Skype Helper (Renderer).app"
 sudo codesign --remove-signature "/Applications/Skype.app/Contents/Frameworks/Skype Helper (GPU).app"
 sudo codesign --remove-signature "/Applications/Skype.app/Contents/Frameworks/Skype Helper (Plugin).app"
 sudo codesign --remove-signature "/Applications/Skype.app/Contents/Frameworks/Skype Helper.app"
-```
+{{< /highlight >}}
 
 ## Microsoft Teams
 
-```
+{{< highlight shell >}}
 sudo codesign --remove-signature "/Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper.app"
 sudo codesign --remove-signature "/Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper (GPU).app"
 sudo codesign --remove-signature "/Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper (Plugin).app"
 sudo codesign --remove-signature "/Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper (Renderer).app"
-```
+{{< /highlight >}}
 
 ## Discord
 
-```
+{{< highlight shell >}}
 sudo codesign --remove-signature "/Applications/Discord.app/Contents/Frameworks/Discord Helper.app/"
 sudo codesign --remove-signature "/Applications/Discord.app/Contents/Frameworks/Discord Helper (GPU).app"
 sudo codesign --remove-signature "/Applications/Discord.app/Contents/Frameworks/Discord Helper (Plugin).app"
 sudo codesign --remove-signature "/Applications/Discord.app/Contents/Frameworks/Discord Helper (Renderer).app"
-```
+{{< /highlight >}}
 
 ## Miro
 
-```
+{{< highlight shell >}}
 sudo codesign --remove-signature "/Applications/Miro.app/Contents/Frameworks/Miro Helper.app"
 sudo codesign --remove-signature "/Applications/Miro.app/Contents/Frameworks/Miro Helper (GPU).app"
 sudo codesign --remove-signature "/Applications/Miro.app/Contents/Frameworks/Miro Helper (Plugin).app"
 sudo codesign --remove-signature "/Applications/Miro.app/Contents/Frameworks/Miro Helper (Renderer).app"
-```
+{{< /highlight >}}
 
 ## Disclaimer
 

@@ -31,15 +31,15 @@ Um das zu lösen, musste ich schon mal auf Seite Zwei der Google-Ergebnisse blä
 
 Die erste Lösung - die nicht unter Debian 10 funktioniert - ist, in `/etc/default/snmpd` die folgende Zeile zu ändern:
 
-```
+{{< highlight shell >}}
 #SNMPDOPTS='-Lsd -Lf /dev/null -u Debian-snmp -g Debian-snmp -I -smux,mteTrigger,mteTriggerConf -p /run/snmpd.pid'
-```
+{{< /highlight >}}
 
 in
 
-```
+{{< highlight shell >}}
 SNMPDOPTS='-LS6d -Lf /dev/null -u Debian-snmp -g Debian-snmp -I -smux,mteTrigger,mteTriggerConf -p /run/snmpd.pid'
-```
+{{< /highlight >}}
 
 Leider funktioniert das, wie gesagt nicht unter Debian 10.
 Es ist aber witzigerweise die am häufigsten auffindbare "Lösung".
@@ -58,16 +58,21 @@ Das ist natürlich beides sehr ungünstig, weil das entweder durch das nächste 
 Schlußendlich habe eine Lösung entdeckt, die tatsächlich funktioniert.
 
 **systemd** kennt ein `edit` Kommando, dass die originalen Service Descriptions unangetastet lässt und die Änderungen an einem Standardort ablegt.
-Das Kommando lautet: `systemctl edit snmpd.service`
+Das Kommando lautet:
+
+{{< highlight shell >}}
+systemctl edit snmpd.service
+{{< /highlight >}}
+
 Dieses Kommando öffnet nicht, wie man vermuten könnte, die originale Datei mit der Service Description, sondern eine andere Datei, in der man Teile der Service Description überschreiben kann. 
 
 Es öffnet sich der Editor des Vertrauens und man schreibt einfach in die (beim ersten Öffnen leere) Datei:
 
-```
+{{< highlight systemd >}}
 [Service]
 ExecStart=
 ExecStart=/usr/sbin/snmpd -LS6d -Lf /dev/null -u Debian-snmp -g Debian-snmp -I -smux,mteTrigger,mteTriggerConf -f
-```
+{{< /highlight >}}
 
 Wichtig ist, dass man beide `ExecStart` Einträge schreibt.
 Der erste Eintrag löscht die Konfiguration aus der originalen Service Description (lässt man die weg, bekommt man die schöne Meldung `snmpd.service: Service has more than one ExecStart= setting, which is only allowed for Type=oneshot services. Refusing.` und der Service kann nicht gestartet werden), der zweite Eintrag ist der neue Befehl für den Start des **snmpd**.
