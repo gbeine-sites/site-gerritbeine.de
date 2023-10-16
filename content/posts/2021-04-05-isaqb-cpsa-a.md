@@ -16,12 +16,14 @@ Der Ablauf sieht prinzipiell vor, dass sich ein Prüfling für einen Themenberei
 Dann gibt es einen Bearbeitungszeitraum von einigen Wochen und nach der Einreichung haben zwei Prüfer:innen vier Wochen Zeit für eine Bewertung.
 
 Nachdem Gernot Starke und ich bereits im [INNOQ-Blog](https://www.innoq.com/en/blog/isaqb-advanced-exam-antipatterns/) einige häufige Antipattern beschrieben haben, möchte ich hier nochmal ein paar weitere Tipps beschreiben.
+
 ## Fragen ist erlaubt
 
 Ihr dürft den Prüfer:innen Fragen stellen. Macht das auch!
 Ich höre häufig, dass die Situation unrealistisch ist.
 Das stimmt, das ist bei fast allen Prüfungssituationen der Fall.
 Fragen ist aber erlaubt!
+
 Ich freue mich darüber, wenn ihr mir eure Annahmen als Fragen schickt - das zeigt, dass ihr euch bewusst mit der Aufgabe auseinandersetzt und nicht nur Abschnitte abarbeitet.
 
 Ich darf zwar keine inhaltlichen Hinweise geben, aber zu Annahmen äußere ich mich immer gern.
